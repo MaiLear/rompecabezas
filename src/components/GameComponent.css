@@ -7,6 +7,7 @@
 }
 
 .content-grid{
+    width: 75%;
     display: grid;
     grid-template-columns: repeat(4,minmax(250px,3fr));
 }
